@@ -11,15 +11,7 @@
 
 ## Aim & Scenario of the task
 
-##### The Aim of this task is to test certain scenario 
-##### The scenario is that I logged in with valid credentials then after that when i reac the items in the stock in the home page,
-##### the items are sorted by choosing Price( low to high ) from filters options
-##### after that add the first item which have the lowest prices to the cart to purchase it,
-##### then the following page is where we will view the items in the cart to reac the checkout but before this
-##### we have to fill personal information , then proceeding to checkout last step
-##### Congratulations! 
-##### when you reach page where you see "Thank You for your order"
-##### so your purchasing completed successfully.
+##### The Aim of this task is to test certain scenario, The scenario is that I logged in with valid credentials then after that when i reac the items in the stock in the home page, the items are sorted by choosing Price( low to high ) from filters options. after that add the first item which have the lowest prices to the cart to purchase it, then the following page is where we will view the items in the cart to reac the checkout but before this. we have to fill personal information , then proceeding to checkout last step. Congratulations! when you reach page where you see "Thank You for your order", so your purchasing completed successfully.
 
 ## Steps to run
 
