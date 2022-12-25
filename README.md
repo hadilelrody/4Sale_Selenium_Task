@@ -23,7 +23,7 @@
 ## Steps to run
 
 #####  -After doing the steps of installation in the prerequisities step.
-#####  -Clone the file of the the code that exist in this repository (git clone https://github.com/hadilelrody/SauceDemo_Selenium_Task).
+#####  -Clone the file of the the code that exist in this repository (git clone https://github.com/hadilelrody/Automated-Purchase-from-SauceDemo-using-Selenium).
 #####  -Run the code from you IDE (VS Code).
 #####  -Google chrome will be opened and you will find the scenario automatically executed.
 
