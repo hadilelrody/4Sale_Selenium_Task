@@ -1,12 +1,12 @@
-# SauceDemo_Selenium_Task
-#####   This is a simple selenium testing task on SauceDemo Website made with python programming language.
+# Automated Purchase from SauceDemo using Selenium
+#####  This is a simple selenium testing task on SauceDemo Website made with python programming language to test certain scenario for purchasing the item with lowest price.
 
 ## Prerequisites
 ####   In order to complete these exercises you must complete the following prerequisite installation and configuration steps:
 
 #####  -Install Git
 #####  -Install Google Chrome
-#####  -Install python and pip
+#####  -Install python and pip (python get-pip.py)
 #####  -Install an IDE (PyCharm, Visual Studio Code, Komodo Edit etc.)
 
 ## Aim & Scenario of the task
@@ -23,7 +23,7 @@
 ## Steps to run
 
 #####  -After doing the steps of installation in the prerequisities step.
-#####  -Clone the file of the the code that exist in this repository.
+#####  -Clone the file of the the code that exist in this repository (git clone https://github.com/hadilelrody/SauceDemo_Selenium_Task).
 #####  -Run the code from you IDE (VS Code).
 #####  -Google chrome will be opened and you will find the scenario automatically executed.
 
