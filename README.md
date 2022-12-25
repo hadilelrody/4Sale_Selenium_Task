@@ -4,10 +4,10 @@
 ## Prerequisites
 #### In order to complete these exercises you must complete the following prerequisite installation and configuration steps:
 
-##### Install Git
-##### Install Google Chrome
-##### Install python and pip
-##### Install an IDE (PyCharm, Visual Studio Code, Komodo Edit etc.)
+##### -Install Git
+##### -Install Google Chrome
+##### -Install python and pip
+##### -Install an IDE (PyCharm, Visual Studio Code, Komodo Edit etc.)
 
 ## Aim & Scenario of the task
 
@@ -23,10 +23,10 @@
 
 ## Steps to run
 
-##### After doing the steps of installation in the prerequisities step.
-##### Clone the file of the the code that exist in this repository.
-##### Run the code from you IDE (VS Code).
-##### Google chrome will be opened and you will find the scenario automatically executed.
+##### -After doing the steps of installation in the prerequisities step.
+##### -Clone the file of the the code that exist in this repository.
+##### -Run the code from you IDE (VS Code).
+##### -Google chrome will be opened and you will find the scenario automatically executed.
 
 
 
